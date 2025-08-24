@@ -3,7 +3,7 @@
 # Run `pod lib lint battery_level.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'battery_level'
+  s.name             = 'flutter_battery_meter'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC

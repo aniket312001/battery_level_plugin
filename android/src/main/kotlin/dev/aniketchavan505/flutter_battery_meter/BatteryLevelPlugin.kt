@@ -1,4 +1,4 @@
-package dev.aniketchavan505.battery_level
+package dev.aniketchavan505.flutter_battery_meter
 
 import android.content.Context
 import android.content.Intent

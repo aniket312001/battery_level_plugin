@@ -1,5 +1,6 @@
+
+import 'package:flutter_battery_meter/flutter_battery_meter.dart';
 import 'package:flutter/material.dart';
-import 'package:battery_level/battery_level.dart';
 
 void main() {
   runApp(const MyApp());

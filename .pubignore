@@ -1,0 +1,9 @@
+# Example app files
+
+example/build/
+example/.dart_tool/
+example/pubspec.lock
+
+# Test tool outputs
+
+test/.dart_tool/
